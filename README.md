@@ -7,3 +7,5 @@ The applications data was analyzed for the purpose of developing a supervised id
 1. Dataset file: `applications.csv`
 2. R code: `Creating time-window variables with sqldf.R`
 3. Explanations: `Variable Creation.pdf`
+# Contributor
+* Ian Chi
